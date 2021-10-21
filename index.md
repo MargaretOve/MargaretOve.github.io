@@ -6,4 +6,4 @@ I'm a cybersecurity professional.I love cats, astronomy and I ride a Honda CBR60
 
 Where to find me?
 ------------------------------------
-For more details see Linkedin and Github.
+null
